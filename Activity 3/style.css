@@ -1,0 +1,66 @@
+.menu{
+
+    display: inline-block;
+
+position: relative;
+}
+
+
+.sidebar{
+
+width: auto;
+    width: 29%;
+    float: left;
+    height: 500;
+    background-color: aquamarine;
+
+    outline: 2px solid black;
+}
+
+
+
+.mainbody{
+
+    width: 70%;
+    Float: right;
+    background-color: azure;
+    height: auto;
+}
+
+.venus{
+
+    
+}
+
+
+.lorem{
+position: relative;
+}
+
+
+Nav{
+
+    background-color: burlywood;
+}
+
+.menu{
+
+    font-weight: bold;
+    font-size: large;
+    padding: 10px;
+    background-color: blueviolet;
+    margin-right: 2px;
+}
+
+
+.venus_stats{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.footer{
+
+position: ;
+
+}
